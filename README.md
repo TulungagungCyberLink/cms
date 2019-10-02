@@ -6,7 +6,7 @@
 tulungag_tcl_hof.sql
 ```
 ## Contributor
-[saddamazyazy](https://github.com/saddamazyazy)
+[saddamazyazy](https://github.com/saddamazyazy)<br>
 [Muhammad Surya Maulana](https://github.com/suryamaulana)
 
 ## Contributing
