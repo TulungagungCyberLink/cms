@@ -5,8 +5,10 @@
 ```
 tulungag_tcl_hof.sql
 ```
-## Contribution
-I am new to PHP development, can't guarantee that everything works flawlessly. Feel free to open a pull request or an issue. Any kind of contribution is highly appreciated.
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ## License
-cms is licensed with MIT License.
+[MIT License](https://choosealicense.com/licenses/mit/)
