@@ -5,6 +5,10 @@
 ```
 tulungag_tcl_hof.sql
 ```
+## Contributor
+[saddamazyazy](https://github.com/saddamazyazy)
+[Muhammad Surya Maulana](https://github.com/suryamaulana)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
