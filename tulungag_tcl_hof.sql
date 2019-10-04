@@ -130,7 +130,7 @@ INSERT INTO `member` (`id_member`, `nickname`, `id_role`, `image`) VALUES
 (4, 'KAW3', 3, NULL),
 (5, 'HippoScol1', 4, NULL),
 (8, 'Surya1337', 1, NULL);
-
+(9, 'Muhammad Surya', 4, NULL);
 -- --------------------------------------------------------
 
 --
@@ -183,15 +183,7 @@ INSERT INTO `nick_sc` (`id_nick`, `nick`, `urutan`) VALUES
 (3, 'Junx$care', 1),
 (4, 'RiSecID', 4),
 (5, 'HippoScol1', 5),
-(7, 'Cr1m3', 6),
 (9, 'Anarki1878', 7),
-(10, 'RELAX_404', 8),
-(11, 'MR_L0L4', 9),
-(12, 'MYXZLPLTK', 3),
-(14, 'SoaP3RS_KING', 10),
-(15, '666Kax', 11),
-(16, 'FuckQueen', 12),
-(18, 'Bayu0053', 13);
 
 -- --------------------------------------------------------
 
