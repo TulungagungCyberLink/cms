@@ -12,9 +12,9 @@ class Download extends CI_Controller {
 		$members = $this->m_data->get_nick_sc()->result_array();
 		$members = array_column($members, 'nick');
 
-		$start = file_get_contents('./uploads/tcl_pre.deface');
+		$start = file_get_contents('./uploads/tcl_pre_download.deface');
 		$middle = '';
-		$end = file_get_contents('./uploads/tcl_suffix.deface');
+		$end = file_get_contents('./uploads/tcl_suffix_download.deface');
 
 		for ($i=0; $i < count($members); $i++) {
 			if($i%2 == 0){
