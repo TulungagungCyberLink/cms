@@ -37,7 +37,7 @@ class Cookie extends CI_Controller {
 			return (count($data) > 0);
 		}
 		else{
-			$this->form_validation->set_message('is_cookie', 'Kolom {field} bukanlah cookie');
+			$this->form_validation->set_message('is_cookie', 'This Coloumns {field} isnt a cookie');
 			return false;
 		}
 	}
