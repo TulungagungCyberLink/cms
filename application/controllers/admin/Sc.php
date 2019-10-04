@@ -27,10 +27,10 @@ class Sc extends CI_Controller {
 			);
 
 			if($this->m_data->insert($data, 'nick_sc') != 0){
-				$this->session->set_flashdata('success', 'Data berhasil di tambahkan');
+				$this->session->set_flashdata('success', 'Data successfully added');
 			}
 			else{
-				$this->session->set_flashdata('error', 'Data gagal di tambahkan');
+				$this->session->set_flashdata('error', 'Data failed to add');
 			}
 			redirect('admin/sc');
 		}
