@@ -1,10 +1,16 @@
-# TulungagungCyberLink
+# Tulungagung Cyber Link
+
+## Table Of Contents
+- [Tulungagung Cyber Link](#tulungagung-cyber-link)
+  - [Table Of Contents](#table-of-contents)
+  - [Database](#database)
+  - [Contributor](#contributor)
+  - [Contributing](#contributing)
+  - [License](#license)
  Simple CMS for tulungagungcyberlink.org .
  
 ## Database
-```
-tulungag_tcl_hof.sql
-```
+```tulungag_tcl_hof.sql``` or [here](tulungag_tcl_hof.sql)
 ## Contributor
 
 - [saddamazyazy](https://github.com/saddamazyazy)<br>
